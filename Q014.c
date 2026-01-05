@@ -1,6 +1,5 @@
 // KB value to bits, bytes, MB and GB
 #include <stdio.h>
-#include <conio.h>
 
 int main(void){
     float kb, bits, bytes, mb, gb;
