@@ -1,6 +1,6 @@
 // Read the distance and time to calculate speed
 #include <stdio.h>
-#include <conio.h>
+#include <math.h>
 
 int main(void){
     float distance;
