@@ -1,6 +1,5 @@
 // Read two cathets and calculate the hipotenuse
 #include <stdio.h>
-#include <conio.h>
 #include <math.h>
 
 int main(void){

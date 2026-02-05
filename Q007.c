@@ -1,6 +1,5 @@
 // Read a positive integer number and calculate your double, square, cube and square root
 #include <stdio.h>
-#include <conio.h>
 #include <math.h>
 
 int main(){
@@ -19,6 +18,5 @@ int main(){
     printf("%d\n", square);
     printf("%d\n", cube);
     printf("%f\n", squareRoot);
-    getch();
     return 0;
 }

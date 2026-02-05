@@ -1,6 +1,5 @@
 // Converts Brazilian Real to Dollar
 #include <stdio.h>
-#include <conio.h>
 
 int main(void){
     float brl, cotation;
@@ -10,6 +9,5 @@ int main(void){
     float dollar = brl * cotation;
 
     printf("Dollar: %f", dollar);
-    getch();
     return 0;
 }
