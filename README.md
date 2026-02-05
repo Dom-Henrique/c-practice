@@ -17,6 +17,6 @@ Questões 54-65: estruturas de dados
 ## Como clonar o projeto
 Vá para uma IDE de sua preferência, como o Visual Studio Code ou o CLion e digite:
 ```
-git clone https://github.com/Dom-Henrique/Linguagem_C_ADS
+git clone https://github.com/Dom-Henrique/c-practice
 ```
 E pronto! O projeto está clonado em sua máquina.
